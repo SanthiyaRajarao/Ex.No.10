@@ -1,8 +1,8 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
-
-## Date:
-## Reg. No.
+## NAME : SANTHIYA R
+## Date:12.11.2025
+## Reg No: 212223230192
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
@@ -61,6 +61,107 @@ content generation scenarios:
 2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+### OUTPUT
+## 📌 Demonstration of Prompting Techniques in Content Creation
+
+### 1. **Query Decomposition**
+
+*Break a complex query into smaller sub-queries.*
+
+* **Prompt Example:**
+
+  * Instead of: *“Write a case study on renewable energy adoption in India.”*
+  * Use:
+
+    1. *“List major renewable energy sources in India.”*
+    2. *“Summarize government policies supporting them.”*
+    3. *“Provide 2 case studies of successful projects.”*
+    4. *“Combine into a coherent case study.”*
+
+* **Effect:** Produces **structured, detailed, and fact-rich content** rather than a surface-level overview.
+
+---
+
+### 2. **Decision-Making Prompts**
+
+*Guide the model to choose among options or frameworks.*
+
+* **Prompt Example (Report):**
+
+  * *“Use SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) to evaluate electric vehicles in India.”*
+
+* **Prompt Example (Creative Writing):**
+
+  * *“Choose one of these genres—sci-fi, comedy, or fantasy—and write a one-page comic book script about AI in education.”*
+
+* **Effect:** Adds **direction and focus**, prevents generic responses.
+
+---
+
+### 3. **Semantic Filtering**
+
+*Control style, tone, or relevance using constraints.*
+
+* **Prompt Example (Article):**
+
+  * *“Write a 500-word article on AI in healthcare, suitable for a newspaper audience, avoiding technical jargon.”*
+
+* **Prompt Example (Case Study):**
+
+  * *“Provide a case study on Tesla’s marketing, but exclude financial data and focus only on customer engagement strategies.”*
+
+* **Effect:** Ensures **audience-fit and relevance**.
+
+---
+
+### 4. **Role-based Prompting**
+
+*Ask the model to adopt a perspective or role.*
+
+* **Prompt Example (Report):**
+
+  * *“You are a policy advisor writing a government report on cybersecurity threats.”*
+
+* **Prompt Example (Comic Book):**
+
+  * *“You are a comic scriptwriter. Write a 6-panel dialogue where a robot explains climate change to a child.”*
+
+* **Effect:** Shapes **voice, structure, and depth** according to the role.
+
+---
+
+### 5. **Chain-of-Thought / Stepwise Guidance**
+
+*Encourage structured reasoning before the final output.*
+
+* **Prompt Example (Article):**
+
+  * *“Before writing the final article, first outline the key sections on AI in education, then expand each into full paragraphs.”*
+
+* **Prompt Example (Case Study):**
+
+  * *“Step 1: Identify the problem. Step 2: Provide background. Step 3: Discuss solutions. Step 4: Conclude with lessons learned.”*
+
+* **Effect:** Improves **logical flow and coherence**.
+
+---
+
+## 📊 Comparing Across Formats
+
+| Technique            | Report (Analytical) | Article (General) | Case Study (Practical) | Comic (Creative) |
+| -------------------- | ------------------- | ----------------- | ---------------------- | ---------------- |
+| Query Decomposition  | Clear structure     | Depth in details  | Step-by-step evidence  | Episodic story   |
+| Decision-Making      | Framework-based     | Focused lens      | Comparative insights   | Genre control    |
+| Semantic Filtering   | Policy-focused      | Audience-fit      | Scope-limited          | Age-appropriate  |
+| Role-based Prompting | Formal, expert tone | Journalist voice  | Consultant voice       | Character-driven |
+| Stepwise Guidance    | Coherent sections   | Smooth flow       | Problem-solution style | Story arc logic  |
+
+---
+
+✅ **Takeaway:**
+By altering the **prompting structure**, we can significantly shift the **quality, tone, coherence, and usefulness** of AI-generated outputs across domains—from formal reports to playful comics.
 
 ## Conclusion:
 By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+### RESULT
+THIS EXPREIMENT HAS SUCCESSFULLY COMPLETED
